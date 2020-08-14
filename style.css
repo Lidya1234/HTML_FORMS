@@ -12,8 +12,7 @@ body {
 .center {
   text-align: center;
 }
-.small-text {
-}
+
 .navbar {
   height: 40px;
   float: none;
@@ -29,6 +28,15 @@ body {
 }
 .signin-btn {
   float: right;
+  background:#0879c8;
+  color:white;
+  border:none;
+  margin: 2px 20px;
+  height:38px;
+  width:90px;
+  border-radius: 4px;
+  
+
 }
 .signup-form {
   width: 380px;
@@ -47,10 +55,11 @@ body {
   margin-bottom: 30px;
 }
 .inputbox {
-  width: 100%;
+  width: 90%;
   border: #c1c5c8 1px solid;
   border-radius: 3px;
   height: 34px;
+  padding:0 1.2rem;
 }
 .form-label {
   line-height: 25px;
@@ -69,6 +78,7 @@ body {
   border: none;
   height: 44px;
   border-radius: 4px;
+  font-size:16px;
 }
 .policy-terms {
   margin-top: 40px;
@@ -77,4 +87,14 @@ body {
   line-height: 20px;
   font-weight: 100;
   font-style: italic;
+}
+.hyper-links
+{
+    text-decoration:none;
+    color:#0879c8;
+    font-size:12px;
+}
+.lockicon
+{
+    margin-right:10px;
 }
