@@ -4,9 +4,10 @@ body {
   margin: 0;
   padding: 0;
   background-color: #eceef1;
-  color:#404040;
-  font-family:  "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size:14 px;
+  color: #404040;
+  font-family: "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+  font-size: 14px;
 }
 .center {
   text-align: center;
@@ -33,7 +34,7 @@ body {
   width: 380px;
   background-color: white;
   margin: auto;
-  padding: 35px 20px;
+  padding: 35px 30px;
 }
 .title {
   font-size: 26px;
@@ -42,39 +43,38 @@ body {
   font-size: 16px;
   margin-top: 20px;
 }
-.input-field
-{
-   
-   margin-bottom:30px;
+.input-field {
+  margin-bottom: 30px;
 }
-.inputbox
-{
-    width:100%;
-    border:#C1C5C8 1px solid;
-    border-radius:3px;
-    height:34px;
+.inputbox {
+  width: 100%;
+  border: #c1c5c8 1px solid;
+  border-radius: 3px;
+  height: 34px;
 }
-.form-label
-{
-    
-    line-height:25px;
-
+.form-label {
+  line-height: 25px;
 }
-.labels
-{
-    margin-bottom:15px;
+.labels {
+  margin-bottom: 15px;
 }
-.small-text
-{
-font-size:12px;
+.small-text {
+  font-size: 12px;
 }
-.buttons
-{
-    background-color:#0879C8;
-    width:100%;
-    color:white;
-    font-weight:bold;
-    border:none;
-    height:20px;
-
+.create-button {
+  background-color: #0879c8;
+  width: 100%;
+  color: white;
+  font-weight: bold;
+  border: none;
+  height: 44px;
+  border-radius: 4px;
+}
+.policy-terms {
+  margin-top: 40px;
+  color: #757575;
+  padding: 20px;
+  line-height: 20px;
+  font-weight: 100;
+  font-style: italic;
 }
