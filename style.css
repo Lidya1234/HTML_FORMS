@@ -1,0 +1,41 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #eceef1;
+}
+.center {
+  text-align: center;
+}
+.small-text {
+}
+.navbar {
+  height: 40px;
+  float: none;
+  margin-bottom: 50px;
+  padding: 20px;
+}
+.nav-content {
+  float: right;
+}
+.nav-description {
+  float: left;
+  margin-right: 20px;
+}
+.signin-btn {
+  float: right;
+}
+.signup-form {
+  width: 380px;
+  background-color: white;
+  margin: auto;
+  padding: 35px 20px;
+}
+.title {
+  font-size: 26px;
+}
+.title-description {
+  font-size: 16px;
+  margin-top: 20px;
+}
