@@ -1,14 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Project : HTML FORMS ( Mint sign up page clone ) 
 
-HTML FORMS : Mint sign up page clone
-
->
+> We created a clone of a Mint's Signup page, with input form for the creation of a new account.
 
 ![screenshot](./app_screenshot.png)
-
-We created a clone of a Mint's Signup page, with input form for the creation of a new account.
 
 ## Built With
 
