@@ -5,8 +5,7 @@ body {
   padding: 0;
   background-color: #eceef1;
   color: #404040;
-  font-family: "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial,
-    sans-serif;
+  font-family: "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   min-width: 400px;
 }
@@ -15,6 +14,8 @@ body {
   text-align: center;
   margin: auto;
 }
+
+/* navigation bar */
 
 .navbar {
   height: 40px;
@@ -30,6 +31,8 @@ body {
   float: left;
   margin-top: 5px;
 }
+
+/* signin */
 
 .signin-btn {
   float: right;
@@ -51,6 +54,8 @@ body {
   border-bottom: none;
 }
 
+/* Title */
+
 .title {
   font-size: 24px;
 }
@@ -59,6 +64,8 @@ body {
   font-size: 14px;
   margin-top: 20px;
 }
+
+/* Input fields */
 
 .input-field {
   margin-top: 15px;
@@ -87,6 +94,17 @@ body {
   font-size: 12px;
 }
 
+#password-input {
+  position: relative;
+}
+
+#password-input img {
+  position: absolute;
+  height: 22px;
+  right: 3%;
+  top: 15%;
+}
+
 .create-button {
   background-color: #0879c8;
   width: 100%;
@@ -98,6 +116,8 @@ body {
   font-size: 16px;
 }
 
+/* terms */
+
 .policy-terms {
   margin-top: 30px;
   color: #757575;
@@ -107,11 +127,15 @@ body {
   font-style: italic;
 }
 
+/* links */
+
 .hyper-links {
   text-decoration: none;
   color: #0879c8;
   font-size: 12px;
 }
+
+/* icons */
 
 .lockicon {
   margin-right: 10px;
@@ -142,6 +166,8 @@ body {
   margin-left: 10px;
 }
 
+/* captcha */
+
 .captcha-section {
   height: 30px;
   background-color: #eceef1;
@@ -155,19 +181,10 @@ body {
   font-size: 10px;
 }
 
+/* footer */
+
 .footer {
   color: #757575;
   margin-bottom: 20px;
   line-height: 15px;
-}
-
-#password-input {
-  position: relative;
-}
-
-#password-input img {
-  position: absolute;
-  height: 22px;
-  right: 3%;
-  top: 15%;
 }
