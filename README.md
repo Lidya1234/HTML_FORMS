@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
-
-> One paragraph statement about the project.
+HTML FORMS:Mint sign up page clone
+> 
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,67 +10,41 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML and css,
+
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+[Live Demo Link]
+(https://rawcdn.githack.com/Lidya1234/HTML_FORMS/e7766389db3bd9c65882b551822a9463d20630cf/index.html
+)
 
 
 ## Authors
 
 👤 **Author1**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@khalilhamdii](https://github.com/khalilhamdii)
 
 👤 **Author2**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@Lidya1234](https://github.com/Lidya1234)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!
+Contributions, issues and feature requests are welcome! Start by:
 
 Feel free to check the [issues page](issues/).
+
+Forking the project
+Cloning the project to your local machine
+cd into the project directory
+Run git checkout -b your-branch-name
+Make your contributions
+Push your branch up to your forked repository
+Open a Pull Request with a detailed description to the development branch of the original project for a review
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
+And you are welcome to leave any helpful comments to help us develop a better version of this webpage.
